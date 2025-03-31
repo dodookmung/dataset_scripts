@@ -99,15 +99,13 @@ if __name__ == "__main__":
 
 
 
-'''
-C:\Users\dodookmung\github\Datasets>python image_resize.py C:\Users\dodookmung\github\Datasets\mix_bin --output_folder C:\Users\dodookmung\github\Datasets\resized_mix_bin
-총 13619개의 이미지 파일을 찾았습니다.
-처리 완료: 13619개 성공, 0개 실패
-소요 시간: 10.75초
 
-C:\Users\dodookmung\github\Datasets>python image_resize.py C:\Users\dodookmung\github\Datasets\mix_color --output_folder C:\Users\dodookmung\github\Datasets\resized_mix_color
-총 13619개의 이미지 파일을 찾았습니다.
-처리 완료: 13619개 성공, 0개 실패
-소요 시간: 16.47초
+#C:\Users\dodookmung\github\Datasets>python image_resize.py C:\Users\dodookmung\github\Datasets\mix_bin --output_folder C:\Users\dodookmung\github\Datasets\resized_mix_bin
+#총 13619개의 이미지 파일을 찾았습니다.
+#처리 완료: 13619개 성공, 0개 실패
+#소요 시간: 10.75초
 
-'''
+#C:\Users\dodookmung\github\Datasets>python image_resize.py C:\Users\dodookmung\github\Datasets\mix_color --output_folder C:\Users\dodookmung\github\Datasets\resized_mix_color
+#총 13619개의 이미지 파일을 찾았습니다.
+#처리 완료: 13619개 성공, 0개 실패
+#소요 시간: 16.47초
