@@ -25,7 +25,7 @@ def delete_extra_files(folder1, folder2):
         print(f"Deleted: {file_path}")
 
 if __name__ == "__main__":
-    folder1 = "C:\\Users\\dodookmung\\github\\Datasets\\face_crop"  # 첫 번째 폴더 경로 입력
-    folder2 = "C:\\Users\\dodookmung\\github\\Datasets\\face_crop_segmentation"  # 두 번째 폴더 경로 입력
+    folder1 = "C:\\Users\\dodookmung\\github\\Datasets\\연예인마스크이미지"  # 첫 번째 폴더 경로 입력
+    folder2 = "C:\\Users\\dodookmung\\github\\Datasets\\연예인마스크이미지_bin"  # 두 번째 폴더 경로 입력
     
     delete_extra_files(folder1, folder2)
